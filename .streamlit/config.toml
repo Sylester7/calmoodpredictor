@@ -1,0 +1,8 @@
+[general]
+allow_unsafe_jinjia=true
+
+[server]
+enableXsrfProtection = false
+
+[browser]
+gatherUsageStats = false
