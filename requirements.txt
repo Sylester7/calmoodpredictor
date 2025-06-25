@@ -1,4 +1,4 @@
 streamlit
-tensorflow==2.16.1 # Or a later version compatible with Python 3.13
+tensorflow-cpu==2.15.0
 Pillow
 numpy
