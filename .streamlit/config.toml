@@ -6,3 +6,6 @@ enableXsrfProtection = false
 
 [browser]
 gatherUsageStats = false
+
+[python]
+version = "3.13" # Specify Python 3.13
